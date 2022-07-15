@@ -10,4 +10,4 @@ Methods and tools used:
 - Matplotlib (plots)
 - Numpy
 
-For consistency with the university course programme, code is stored in Jupyter Notebook ml_zaliczenie
+For consistency with the university course programme, code is stored in Jupyter Notebook kindextemp0
